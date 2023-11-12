@@ -22,13 +22,11 @@
   - [🤗 Welcome to the Python Student Session Solutions Space!](#-welcome-to-the-python-student-session-solutions-space)
   - [📚 How to use this repository?](#-how-to-use-this-repository)
   - [📝 List of problems and small explanations](#-list-of-problems-and-small-explanations)
-  - [Goal of those sessions](#goal-of-those-sessions)
 - [Français](#français)
-  - [🤔 Qu'est-ce que c'est ?](#-qu'est-ce-que-c'est-)
-  - [🤗 Bienvenue dans l'espace des solutions des sessions d'étudiants en Python !](#-bienvenue-dans-l'espace-des-solutions-des-sessions-d'étudiants-en-python-)
+  - [🤔 Qu'est-ce que c'est ?](#-quest-ce-que-cest-)
+  - [🤗 Bienvenue dans l'espace des solutions des sessions d'étudiants en Python !](#-bienvenue-dans-lespace-des-solutions-des-sessions-détudiants-en-python-)
   - [📚 Comment utiliser ce dépôt ?](#-comment-utiliser-ce-dépôt-)
   - [📝 Liste des problèmes et petites explications](#-liste-des-problèmes-et-petites-explications)
-  - [Objectif de ces sessions](#objectif-de-ces-sessions)
 
 # English
 
